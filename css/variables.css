@@ -9,5 +9,9 @@
   --light-tertiary-color: #f3f6fb;
   --text-color: #343d48;
 
+
+  /* MODO DARK*/
+  --darkground: #2a2a2a00;
+
   --font-family: 'DM Sans', sans-serif;
 }
